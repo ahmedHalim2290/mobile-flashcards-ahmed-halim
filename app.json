@@ -1,0 +1,17 @@
+{
+  "name": "mobile-flashcards-ahmed-halim",
+  "displayName": "mobile-flashcards-ahmed-halim",
+  "expo": {
+    "name": "mobile-flashcards-ahmed-halim",
+    "slug": "mobile-flashcards-ahmed-halim",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
